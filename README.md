@@ -19,8 +19,8 @@
     <td> Curso completo em python3 do básico ao avançado</td>
   </tr>
   <tr>
-    <td><a href = "https://www.cursoemvideo.com/cursos/"> Curso em vídeo - Gustavo Guanabara </a></td>
-    <td><a href = https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado"> Curso do básico ao avançado - Geek Academy. </a></td>
+    <td><a href = "https://github.com/RayaneGomes97/Exercicios_Python3/tree/main/Curso%20em%20v%C3%ADdeo"> Curso em vídeo - Gustavo Guanabara </a></td>
+    <td><a href = "https://github.com/RayaneGomes97/Exercicios_Python3/tree/main/Geek%20Academy"> Curso do básico ao avançado - Geek Academy. </a></td>
   </tr>
 </tbody>
 </table>
