@@ -9,8 +9,8 @@
 <table>
 <thead>
   <tr>
-      <th><h1> <img width="62%" src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo1-300x300.png"> </h1></th>
-      <th><h1> <img width="70%"src="https://img-a.udemycdn.com/user/200_H/29902300_1704_2.jpg">  </h1></th>
+      <th><h1> <img width="37%" src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo1-300x300.png"> </h1></th>
+      <th><h1> <img width="100%"src="https://img-a.udemycdn.com/user/200_H/29902300_1704_2.jpg">  </h1></th>
   </tr>
 </thead>
 <tbody>
