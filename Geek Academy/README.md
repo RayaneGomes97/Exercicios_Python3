@@ -4,31 +4,31 @@
     <meta charset="UTF-8">
 </head>
 <body>
-    <p> Repositório criado para armazenar todas as <strong>minhas soluçõe</strong> dos desafios propostos pelo <a href= "https://www.cursoemvideo.com/cursos/">Curso em Vídeo </a> </p><br>
+    <p> Repositório criado para armazenar todas as <strong>minhas soluçõe</strong> dos desafios propostos pelo <a href= "https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado">Curso do básico ao avançado - Geek Academy. </a> </p><br>
     
 <table>
 <thead>
   <tr>
-      <th><h1> <img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo1-300x300.png"> </h1></th>
-      <th><h1> <img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo2-300x300.png"> </h1></th>
-      <th><h1> <img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo3-300x300.png"> </h1></th>
+      <th><h1> <img width="70%"src="https://img-a.udemycdn.com/user/200_H/29902300_1704_2.jpg"> </h1></th>
+      <th><h1> <img width="70%"src="https://img-a.udemycdn.com/user/200_H/29902300_1704_2.jpg"></h1></th>
+      <th><h1> <img width="70%"src="https://img-a.udemycdn.com/user/200_H/29902300_1704_2.jpg"></h1></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Primeiro mundo do curso introduz a linguagem, seus conceitos e ensina alguns recursos básicos.</td>
-    <td>Segundo mundo do curso explica as estruturas de repetição, conceitos e usabilidades.</td>
-    <td> Terceiro mundo do curso explica as estruturas de dados, funções, módulos e tratamento de erros.</td>
+    <td> 53 Exercícios proposto pela Seção 4: Variáveis e Tipos de dados em python</td>
+    <td> 53 Exercícios proposto pela Seção X: Variáveis e Tipos de dados em python</td>
+    <td> 53 Exercícios proposto pela Seção X: Variáveis e Tipos de dados em python</td>
   </tr>
   <tr>
-    <td><a href = "https://github.com/RayaneGomes97/curso-em-video-python/blob/master/Mundo%201/Lista%20de%20Exercicios%20-%20Mundo%201.md"> Lista de desafios </a></td>
-    <td><a href = "https://github.com/RayaneGomes97/curso-em-video-python/blob/master/Mundo%202/Lista%20de%20Exercicios%20-%20Mundo%202.md"> Lista de desafioso </a></td>
-    <td><a href = "https://github.com/RayaneGomes97/curso-em-video-python/blob/master/Mundo%203/Lista%20de%20Exercicios%20-%20Mundo%203.md"> Lista de desafioso </a></td>
+    <td><a href = "#"> Lista de desafios </a></td>
+    <td><a href = "#"> Lista de desafios </a></td>
+    <td><a href = "#"> Lista de desafios </a></td>
   </tr>
   <tr>
-    <td><a href = "https://github.com/RayaneGomes97/curso-em-video-python/blob/master/Mundo%201/README.md"> Status </a></td>
-    <td><a href = "https://github.com/RayaneGomes97/curso-em-video-python/blob/master/Mundo%202/README.md"> Status </a></td>
-    <td><a href = "https://github.com/RayaneGomes97/curso-em-video-python/blob/master/Mundo%203/README.md"> Status </a></td>
+    <td><a href = "#"> Status </a></td>
+    <td><a href = "#"> Status </a></td>
+    <td><a href = "#"> Status </a></td>
   </tr>
 </tbody>
 </table>
