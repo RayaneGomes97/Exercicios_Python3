@@ -15,8 +15,8 @@
 </thead>
 <tbody>
   <tr>
-    <td> Curso de python3 em que é dividido em 3 partes(mundos), desde à introdução a linguagem a funções, módulos e tratamento de erros..</td>
-    <td> Curso completo em python do básico ao avançado</td>
+    <td> Curso de python3 dividido em 3 partes (mundos).</td>
+    <td> Curso completo em python3 do básico ao avançado</td>
   </tr>
   <tr>
     <td><a href = "https://www.cursoemvideo.com/cursos/"> Curso em vídeo - Gustavo Guanabara </a></td>
