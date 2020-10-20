@@ -9,18 +9,16 @@
 <table>
 <thead>
   <tr>
-      <th><h1> <img src="#"> </h1></th>
-      <th><h1> <img width="30%"src="https://img-a.udemycdn.com/user/200_H/29902300_1704_2.jpg"> </h1></th>
-      <th><h1> <img width="30%"src="https://img-a.udemycdn.com/user/200_H/29902300_1704_2.jpg"></h1></th>
-        <th><h1> <img width="30%"src="https://img-a.udemycdn.com/user/200_H/29902300_1704_2.jpg"></h1></th>
-
+      <th><h1> <img width="70%"src="https://img-a.udemycdn.com/user/200_H/29902300_1704_2.jpg"> </h1></th>
+      <th><h1> <img width="70%"src="https://img-a.udemycdn.com/user/200_H/29902300_1704_2.jpg"></h1></th>
+      <th><h1> <img width="70%"src="https://img-a.udemycdn.com/user/200_H/29902300_1704_2.jpg"></h1></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td> 53 Exercícios proposto pela Seção 4: Variáveis e Tipos de dados em python</td>
-    <td> Descrição - 2 </td>
-    <td> Descrição - 3 </td>
+    <td> 53 Exercícios proposto pela Seção X: Variáveis e Tipos de dados em python</td>
+    <td> 53 Exercícios proposto pela Seção X: Variáveis e Tipos de dados em python</td>
   </tr>
   <tr>
     <td><a href = "#"> Lista de desafios </a></td>
