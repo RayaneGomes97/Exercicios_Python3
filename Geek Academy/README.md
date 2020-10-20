@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 </head>
 <body>
-    <p> Repositório criado para armazenar todas as <strong>minhas soluçõe</strong> dos desafios propostos pelo <a href= "https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado">Curso do básico ao avançado - Geek Academy </a> </p><br>
+    <p> Repositório criado para armazenar todas as <strong>minhas soluçõe</strong> dos desafios propostos pelo <a href= "https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado">Curso do básico ao avançado - Geek Academy. </a> </p><br>
     
 <table>
 <thead>
