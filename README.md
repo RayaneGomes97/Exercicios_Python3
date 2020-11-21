@@ -6,32 +6,4 @@
 <body>
     <p> Repositório criado para armazenar todas as <strong>minhas soluçõe</strong> dos desafios cursos que já ingressei </a></p><br>
     
-<table>
-<thead>
-   <tr>
-    <td> Estudos HTML x CSS3 </a></td>
-      <td> Entrega do projeto </a></td>
-
-  </tr>
-  <tr>
-      <th><h1> <img width="250"src="https://tec.andersonsg.com.br/wp-content/uploads/sites/2/2016/05/html5-css3.jpg">  </h1></th>
-      <th><h1> <img width="250" src="https://www.ecommercebrasil.com.br/wp-content/uploads/2017/12/safeman_business.jpg"> </h1></td
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td> Clique aqui para acessar </td>
-    <td> Clique aqui para acessar </td>
-  </tr>
-
-</tbody>
-</table>
-
-
-
-
-
-
-
-</body>
-</html>
+<
